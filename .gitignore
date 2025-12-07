@@ -1,0 +1,12 @@
+# VS / Build
+bin/
+obj/
+.vs/
+
+# User-specific
+*.user
+*.suo
+
+# Do not commit config with local connection strings
+appsettings.json
+appsettings.Development.json
